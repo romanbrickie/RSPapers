@@ -134,7 +134,7 @@ the user with the recommendations, but also make the user aware why such items a
 
 ## Social Recommender System
 
-* Ma, Hao, et al. **Sorec: social recommendation using probabilistic matrix factorization.** ICKM, 2008.
+* Ma, Hao, et al. **Sorec: social recommendation using probabilistic matrix factorization.** CIKM, 2008.
 
 * Jamali et al. **Trustwalker: a random walk model for combining trust-based and item-based recommendation.** SIGKDD, 2009.
 
@@ -152,13 +152,13 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Yang et al. **Social collaborative filtering by trust.** IJCAI, 2013.
 
-* Zhao et al. **Leveraging social connections to improve personalized ranking for collaborative filtering.** ICKM, 2014.
+* Zhao et al. **Leveraging social connections to improve personalized ranking for collaborative filtering.** CIKM, 2014.
 
 * Chen et al. **Context-aware collaborative topic regression with social matrix factorization for recommender systems.** AAAI, 2014.
 
 * Guo et al. **TrustSVD: Collaborative Filtering with Both the Explicit and Implicit Influence of User Trust and of Item Ratings.** AAAI, 2015.
 
-* Wang et al. **Social recommendation with strong and weak ties.** ICKM, 2016.
+* Wang et al. **Social recommendation with strong and weak ties.** CIKM, 2016.
 
 * Li et al. **Social recommendation using Euclidean embedding.** IJCNN, 2017.
 
@@ -176,7 +176,7 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Wen et al. **Network embedding based recommendation method in social networks.** WWW Poster, 2018.
 
-* Lin et al. **Recommender Systems with Characterized Social Regularization.** ICKM Short Paper, 2018.
+* Lin et al. **Recommender Systems with Characterized Social Regularization.** CIKM Short Paper, 2018.
 
 
 
@@ -184,7 +184,7 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Salakhutdinov et al. **Restricted Boltzmann machines for collaborative filtering.** ICML, 2007.
 
-* Wang et al. **Collaborative deep learning for recommender systems.** ICDM, 2015.
+* Wang et al. **Collaborative deep learning for recommender systems.** KDD, 2015.
 
 * Sedhain et al. **Autorec: Autoencoders meet collaborative filtering.** WWW, 2015.
 
@@ -199,6 +199,10 @@ the user with the recommendations, but also make the user aware why such items a
 * Wu et al. **Collaborative denoising auto-encoders for top-n recommender systems.** WSDM, 2016.
 
 * Kim et al. **Convolutional matrix factorization for document context-aware recommendation.** RecSys, 2016.
+
+* Tan et al. **Improved recurrent neural networks for session-based recommendations.** Workshop on Deep Learning for Recommender Systems, 2016.
+
+* Lian et al. **CCCFNet: a content-boosted collaborative filtering neural network for cross domain recommender systems.** WWW, 2017.
 
 * He et al. **Neural collaborative filtering.** WWW, 2017.
 
@@ -236,18 +240,32 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Zhou et al. **Micro behaviors: A new perspective in e-commerce recommender systems.** WSDM, 2018.
 
+* Chen et al. **Sequential recommendation with user memory networks.** WSDM, 2018.
+
+* Beutel et al. **Latent Cross: Making Use of Context in Recurrent Recommender Systems.** WSDM, 2018.
+
+* Tang et al. **Personalized top-n sequential recommendation via convolutional sequence embedding.** WSDM, 2018.
+
+* Wu et al. **Session-based Recommendation with Graph Neural Networks.** AAAI, 2019.
+
 
 ## Cold Start Problem in Recommender System
+
+* Schein et al. **Methods and metrics for cold-start recommendations.** SIGIR, 2002.
 
 * Gantner et al. **Learning attribute-to-feature mappings for cold-start recommendations.** ICDM, 2010.
 
 * Sedhain et al. **Social collaborative filtering for cold-start recommendations.** RecSys, 2014.
+
+* Zhang et al. **Addressing cold start in recommender systems: A semi-supervised co-training algorithm.** SIGIR, 2014.
 
 * Sedhain et al. **Low-Rank Linear Cold-Start Recommendation from Social Data.** AAAI. 2017.
 
 * Man et al. **Cross-domain recommendation: an embedding and mapping approach.** IJCAI, 2017.
 
 * Cohen et al. **Expediting Exploration by Attribute-to-Feature Mapping for Cold-Start Recommendations.** RecSys, 2017.
+
+* Dureddy et al. **Handling Cold-Start Collaborative Filtering with Reinforcement Learning.** arXiv, 2018.
 
 
 ## POI Recommender System
@@ -298,6 +316,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Li et al. **Collaborative filtering bandits.** SIGIR, 2016.
 
+* Wang et al. **Factorization Bandits for Interactive Recommendation.** AAAI, 2017.
+
 ## Explainability on RS
 
 * Park et al. **UniWalk: Explainable and Accurate Recommendation for Rating and Network Data.** arXiv, 2017.
@@ -305,6 +325,10 @@ the user with the recommendations, but also make the user aware why such items a
 * Huang et al. **Improving Sequential Recommendation with Knowledge-Enhanced Memory Networks.** SIGIR, 2018.
 
 * Wang et al. **Tem: Tree-enhanced embedding model for explainable recommendation.** WWW, 2018.
+
+* Lu et al. **Why I like it: multi-task learning for recommendation and explanation.** RecSys, 2018.
+
+* Wang et al. **Explainable Reasoning over Knowledge Graphs for Recommendation.** AAAI, 2019.
 
 ## RSAlgorithms
 
