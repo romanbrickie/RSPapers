@@ -59,6 +59,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Zhang et al. **Explainable Recommendation: A Survey and New Perspectives.** arXiv, 2018.
 
+* Shoujin et al. **A Survey on Session-based Recommender Systems.** arXiv, 2019.
+
 
 ## Classical Recommender System
 
@@ -98,6 +100,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Khoshneshin et al. **Collaborative filtering via euclidean embedding.** RecSys, 2010.
 
+* Liu et al. **Online evolutionary collaborative filtering Recsys.** RecSys, 2010.
+
 * Koren et al. **Factor in the neighbors: Scalable and accurate collaborative filtering.** TKDD, 2010.
 
 * Chen et al. **Feature-based matrix factorization.** arXiv, 2011.
@@ -129,6 +133,10 @@ the user with the recommendations, but also make the user aware why such items a
 * Gao et al. **BiNE: Bipartite Network Embedding.** SIGIR, 2018.
 
 * Zhang et al. **Metric Factorization: Recommendation beyond Matrix Factorization.** 2018.
+
+* Chen et al. **Collaborative Similarity Embedding for Recommender Systems.** arXiv, 2019.
+
+* Chuan et al. **Heterogeneous Information Network Embedding for Recommendation.** TKDE, 2019.
 
 
 
@@ -178,6 +186,13 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Lin et al. **Recommender Systems with Characterized Social Regularization.** CIKM Short Paper, 2018.
 
+* Yu et al. **Adaptive implicit friends identification over heterogeneous network for social recommendation.** CIKM, 2018.
+
+* Honglei et al. **Social Collaborative Filtering Ensemble.** PRICAI, 2018.
+
+* Wenqi et al. **Graph Neural Networks for Social Recommendation.** WWW, 2019.
+
+* Songet al. **Session-based Social Recommendation via Dynamic Graph Attention Networks.** WSDM, 2019.
 
 
 ## Deep Learning based Recommender System
@@ -246,6 +261,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Tang et al. **Personalized top-n sequential recommendation via convolutional sequence embedding.** WSDM, 2018.
 
+* Chae et al. **CFGAN: A Generic Collaborative Filtering Framework based on Generative Adversarial Networks.** CIKM, 2018.
+
 * Wu et al. **Session-based Recommendation with Graph Neural Networks.** AAAI, 2019.
 
 
@@ -266,6 +283,10 @@ the user with the recommendations, but also make the user aware why such items a
 * Cohen et al. **Expediting Exploration by Attribute-to-Feature Mapping for Cold-Start Recommendations.** RecSys, 2017.
 
 * Dureddy et al. **Handling Cold-Start Collaborative Filtering with Reinforcement Learning.** arXiv, 2018.
+
+* Fu et al. **Deeply Fusing Reviews and Contents for Cold Start Users in Cross-Domain Recommendation Systems.** AAAI, 2019.
+
+* Li. **From Zero-Shot Learning to Cold-Start Recommendation.** AAAI, 2019
 
 
 ## POI Recommender System
@@ -330,6 +351,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Wang et al. **Explainable Reasoning over Knowledge Graphs for Recommendation.** AAAI, 2019.
 
+* Cao et al. **Unifying Knowledge Graph Learning and Recommendation: Towards a Better Understanding of User Preferences.** WWW, 2019.
+
 ## RSAlgorithms
 
 Recently, we have launched an open source project [**RSAlgorithms**](https://github.com/hongleizhang/RSAlgorithms), which provides an integrated training and testing framework. In this framework, we implement a set of classical **traditional recommendation methods** which make predictions only using rating data and **social recommendation methods** which utilize trust/social information in order to alleviate the sparsity of ratings data. Besides, we have collected some classical methods implemented by others for your convenience.
@@ -339,12 +362,14 @@ Recently, we have launched an open source project [**RSAlgorithms**](https://git
 
 Specially summerize the papers about Recommender Systems for you, and if you have any questions, please contact me generously. Last but not least, the ability of myself is limited so I sincerely look forward to working with you to contribute it.
 
+
+Thank @**ShawnSu** for collecting papers about POI Recommender Systems.
+
+Thank @**Wang Zhe** for his advice about EE in RS.
+
 Highly thank @**Yujia Zhang** for her summary on Hashing for RS.
 
-Greatly thank @**ShawnSu** for collecting papers about POI Recommender Systems.
-
-Greatly thank @**Wang Zhe** for his advice about EE in RS.
-
+Specially appreciate Professor @[**Jun Wu**](http://faculty.bjtu.edu.cn/8620/) for his attentive guidance in my research career.
 
 My ZhiHu: [Honglei Zhang](https://www.zhihu.com/people/hongleizhang)
 
